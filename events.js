@@ -14,7 +14,7 @@ myEmitter.on("newSale", () => {
 });
 
 myEmitter.on("newSale", () => {
-  console.log("Costumer name: Jonas");
+  console.log("Customer name: Declan");
 });
 
 myEmitter.on("newSale", (stock) => {
